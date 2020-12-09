@@ -1,4 +1,4 @@
-package cl.evilcorp.perritos2;
+package cl.evilcorp.perritos2.data.model;
 
 import java.util.List;
 import java.util.Map;
